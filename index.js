@@ -1,4 +1,5 @@
 //to use nodemon type    npm run dev    in terminal 
+//Stock Market Portfolio App by Penny Cates
 
 const express = require('express');
 const app = express();
